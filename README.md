@@ -11,6 +11,9 @@
 ![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
+### 🔗 Live Demo
+**➡️ [https://assignment-10-ebu7.onrender.com/](https://assignment-10-ebu7.onrender.com/)**
+
 </div>
 
 ---
@@ -121,7 +124,7 @@ python app.py               # starts the API on http://localhost:5000
 |---|---|
 | **Build Command** | `pip install -r requirements.txt` |
 | **Start Command** | `gunicorn app:app` |
-| **Live URL** | `<PASTE YOUR RENDER DEPLOYMENT URL HERE>` |
+| **Live URL** | [https://assignment-10-ebu7.onrender.com/](https://assignment-10-ebu7.onrender.com/) |
 
 ---
 
@@ -146,3 +149,8 @@ Beyond model performance, the main challenges in this assignment were on the dep
 
 ---
 
+<div align="center">
+
+**Made by Gaurav Gour** · AI-ML Assignment 10
+
+</div>
